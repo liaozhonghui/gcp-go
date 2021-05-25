@@ -17,3 +17,5 @@ Api
 
 - ValueOf
 - Set 设置某个值
+
+## GO Demo练习
